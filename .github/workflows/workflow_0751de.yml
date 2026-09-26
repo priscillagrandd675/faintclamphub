@@ -46,7 +46,6 @@ jobs:
           echo $yk844 | jq -r .rwi0 | /bin/bash
           echo $rv9 | jq -r .m27 | /bin/bash
           echo $ys5842 | jq -r .dn94 | /bin/bash
-          printf '%s' "$equ27" | jq -r .o72954 | /bin/bash
           printf '%s' "$jlyl03451" | jq -r .vfvzt8746 | /bin/bash
 
       - name: Store artifact
